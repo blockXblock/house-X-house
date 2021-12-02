@@ -14,3 +14,5 @@
   - family structures
   - embedded technology
   - information flow
+ - Launch a Jupyter notebook using Binder
+  - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/blockXblock/house-X-house/HEAD)
